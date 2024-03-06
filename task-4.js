@@ -9,6 +9,7 @@ const clients = [
         gender: 'male',
         balance: 2811,
     },
+
     {
         name: 'Sharlene Bush',
         gender: 'female',
